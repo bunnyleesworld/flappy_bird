@@ -1,0 +1,28 @@
+/* index.css */
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+/* #gameContainer {
+  width: 800px;
+  height: 600px;
+  border: 2px solid #000;
+} */
+
+h1 {
+  position: absolute;
+  color: deeppink;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  font-size: 20px;
+}
